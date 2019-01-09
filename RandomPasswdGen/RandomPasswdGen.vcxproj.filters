@@ -30,9 +30,4 @@
   <ItemGroup>
     <Manifest Include="RandomPasswdGen.exe.MANIFEST" />
   </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="RandomPasswdGen.rc">
-      <Filter>Resource Files</Filter>
-    </ResourceCompile>
-  </ItemGroup>
 </Project>
